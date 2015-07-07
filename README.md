@@ -1,2 +1,2 @@
-# legacy-docs
+# Documentation
 Legacy Documentation
